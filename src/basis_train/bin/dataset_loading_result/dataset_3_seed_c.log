@@ -1,0 +1,114 @@
+CellsLoad initializing
+
+
+loading training
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc20_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc5_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc4_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc45_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc46_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc0_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc25_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc47_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc11_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc27_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc37_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc40_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc16_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc1_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc35_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc2_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc38_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc15_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc8_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc43_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc9_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc24_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc6_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc44_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc29_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc18_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc42_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc33_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc49_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc28_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc10_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc19_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc30_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc7_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc41_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc36_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc17_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc12_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc13_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc31_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc14_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc26_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc22_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc3_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc32_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc48_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc39_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc34_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc23_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc21_data_sim55seeding.dat  done
+training items 50
+
+
+loading testing
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc20_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc5_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc4_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc45_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc46_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc0_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc25_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc47_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc11_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc27_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc37_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc40_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc16_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc1_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc35_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc2_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc38_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc15_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc8_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc43_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc9_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc24_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc6_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc44_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc29_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc18_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc42_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc33_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc49_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc28_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc10_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc19_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc30_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc7_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc41_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc36_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc17_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc12_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc13_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc31_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc14_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc26_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc22_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc3_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc32_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc48_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc39_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc34_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc23_data_sim55seeding.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/seeding_c/rbc21_data_sim55seeding.dat  done
+testing items 50
+
+
+position range : 3.705992 4.525357 2.513206  : 121.793060 41.429649 2.513443
+speed range : 0.000000 0.000000 0.000000  : 0.000000 0.000000 0.000000
+CellsLoad uninit done

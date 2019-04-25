@@ -1,0 +1,15 @@
+{
+  "load_log_file_name" : "dataset_loading_result/dataset_5.log",
+
+  "padding"                 : 2,
+  "window_size"             : 16,
+  "dataset_step_increment"  : 4,
+
+  "training"  : [
+    "/home/michal/dataset/cells/sim_50/training"
+  ],
+
+  "testing"   : [
+    "/home/michal/dataset/cells/sim_50/testing"
+  ]
+}

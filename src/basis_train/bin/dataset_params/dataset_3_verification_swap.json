@@ -1,0 +1,15 @@
+{
+  "load_log_file_name" : "dataset_loading_result/dataset_3_verification_swap.log",
+
+  "padding"                 : 2,
+  "window_size"             : 16,
+  "dataset_step_increment"  : 2,
+
+  "training"  : [
+    "/home/michal/dataset/cells/kika_sim_6/testing"
+  ],
+
+  "testing"   : [
+    "/home/michal/dataset/cells/kika_sim_6/testing"
+  ]
+}

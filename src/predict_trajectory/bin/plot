@@ -1,0 +1,35 @@
+cd experiment_0/trajectory
+gnuplot plot_script
+cd ../..
+
+cd experiment_1/trajectory
+gnuplot plot_script
+cd ../..
+
+cd experiment_2/trajectory
+gnuplot plot_script
+cd ../..
+
+cd experiment_3/trajectory
+gnuplot plot_script
+cd ../..
+
+cd experiment_4/trajectory
+gnuplot plot_script
+cd ../..
+
+cd experiment_5/trajectory
+gnuplot plot_script
+cd ../..
+
+cd experiment_6/trajectory
+gnuplot plot_script
+cd ../..
+
+cd experiment_7/trajectory
+gnuplot plot_script
+cd ../..
+
+cd experiment_8/trajectory
+gnuplot plot_script
+cd ../..

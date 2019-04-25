@@ -1,0 +1,64 @@
+rm dataset_loading_result/*.log -f
+
+rm experiment_0/*.log -f
+rm experiment_1/*.log -f
+rm experiment_2/*.log -f
+rm experiment_3/*.log -f
+rm experiment_4/*.log -f
+rm experiment_5/*.log -f
+rm experiment_6/*.log -f
+rm experiment_7/*.log -f
+rm experiment_8/*.log -f
+rm experiment_9/*.log -f
+rm experiment_10/*.log -f
+rm experiment_11/*.log -f
+rm experiment_12/*.log -f
+rm experiment_13/*.log -f
+rm experiment_14/*.log -f
+rm experiment_15/*.log -f
+
+
+rm experiment_0/trained/*.json -f
+rm experiment_0/trained/*.bin -f
+
+rm experiment_1/trained/*.json -f
+rm experiment_1/trained/*.bin -f
+
+rm experiment_2/trained/*.json -f
+rm experiment_2/trained/*.bin -f
+
+rm experiment_3/trained/*.json -f
+rm experiment_3/trained/*.bin -f
+
+rm experiment_4/trained/*.json -f
+rm experiment_4/trained/*.bin -f
+
+rm experiment_5/trained/*.json -f
+rm experiment_5/trained/*.bin -f
+
+rm experiment_6/trained/*.json -f
+rm experiment_6/trained/*.bin -f
+
+rm experiment_7/trained/*.json -f
+rm experiment_7/trained/*.bin -f
+
+rm experiment_8/trained/*.json -f
+rm experiment_8/trained/*.bin -f
+
+rm experiment_9/trained/*.json -f
+rm experiment_9/trained/*.bin -f
+
+rm experiment_10/trained/*.json -f
+rm experiment_10/trained/*.bin -f
+
+rm experiment_11/trained/*.json -f
+rm experiment_11/trained/*.bin -f
+
+rm experiment_12/trained/*.json -f
+rm experiment_12/trained/*.bin -f
+
+rm experiment_13/trained/*.json -f
+rm experiment_13/trained/*.bin -f
+ 
+rm experiment_14/trained/*.json -f
+rm experiment_14/trained/*.bin -f

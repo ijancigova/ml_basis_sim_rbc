@@ -1,0 +1,15 @@
+{
+  "load_log_file_name" : "dataset_loading_result/dataset_4_swap.log",
+
+  "padding"                 : 2,
+  "window_size"             : 16,
+  "dataset_step_increment"  : 4,
+
+  "training"  : [
+    "/home/michal/dataset/cells/monika_sim_3044/testing"
+  ],
+
+  "testing"   : [
+    "/home/michal/dataset/cells/monika_sim_3044/training"
+  ]
+}

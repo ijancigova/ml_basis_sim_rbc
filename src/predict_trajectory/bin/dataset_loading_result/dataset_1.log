@@ -1,0 +1,114 @@
+CellsLoad initializing
+
+
+loading training
+loading cell : /home/michal/dataset/cells/particles_1/training/10.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/30.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/7.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/33.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/45.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/29.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/40.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/21.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/34.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/39.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/35.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/8.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/49.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/9.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/24.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/3.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/20.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/6.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/47.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/43.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/5.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/23.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/0.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/28.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/25.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/38.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/17.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/32.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/36.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/48.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/16.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/18.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/46.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/22.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/26.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/19.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/13.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/27.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/44.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/2.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/41.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/31.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/11.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/15.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/4.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/37.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/1.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/12.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/42.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/training/14.dat  done
+training items 50
+
+
+loading testing
+loading cell : /home/michal/dataset/cells/particles_1/testing/10.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/30.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/7.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/33.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/45.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/29.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/40.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/21.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/34.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/39.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/35.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/8.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/49.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/9.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/24.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/3.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/20.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/6.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/47.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/43.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/5.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/23.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/0.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/28.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/25.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/38.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/17.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/32.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/36.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/48.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/16.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/18.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/46.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/22.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/26.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/19.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/13.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/27.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/44.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/2.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/41.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/31.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/11.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/15.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/4.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/37.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/1.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/12.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/42.dat  done
+loading cell : /home/michal/dataset/cells/particles_1/testing/14.dat  done
+testing items 50
+
+
+position range : -0.999914 -1.010575 0.000000  : 0.999915 0.999992 0.000000
+speed range : -0.009827 -0.009676 0.000000  : 0.009827 0.011575 0.000000
+CellsLoad uninit done

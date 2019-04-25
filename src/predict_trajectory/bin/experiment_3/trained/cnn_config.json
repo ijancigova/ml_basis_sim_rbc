@@ -1,0 +1,60 @@
+{
+	"hyperparameters" : 
+	{
+		"dropout" : 0.05000000074505806,
+		"init_weight_range" : 0.0099999997764825821,
+		"lambda" : 2.4999999936881068e-07,
+		"learning_rate" : 0.00050000002374872565
+	},
+	"input_geometry" : 
+	[
+		3,
+		16,
+		50
+	],
+	"layers" : 
+	[
+		{
+			"geometry" : 
+			[
+				1,
+				1,
+				256
+			],
+			"type" : "fc",
+			"weights_file_name" : "experiment_3/trained/layer_1"
+		},
+		{
+			"type" : "relu",
+			"weights_file_name" : "experiment_3/trained/layer_2"
+		},
+		{
+			"geometry" : 
+			[
+				1,
+				1,
+				64
+			],
+			"type" : "fc",
+			"weights_file_name" : "experiment_3/trained/layer_3"
+		},
+		{
+			"type" : "relu",
+			"weights_file_name" : "experiment_3/trained/layer_4"
+		},
+		{
+			"type" : "dropout",
+			"weights_file_name" : "experiment_3/trained/layer_5"
+		},
+		{
+			"type" : "output",
+			"weights_file_name" : "experiment_3/trained/layer_6"
+		}
+	],
+	"output_geometry" : 
+	[
+		1,
+		1,
+		3
+	]
+}

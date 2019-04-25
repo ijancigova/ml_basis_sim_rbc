@@ -1,0 +1,114 @@
+CellsLoad initializing
+
+
+loading training
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc20_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc33_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc10_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc22_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc31_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc25_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc41_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc48_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc0_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc24_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc17_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc12_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc46_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc34_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc35_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc8_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc47_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc13_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc38_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc30_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc14_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc32_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc39_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc23_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc2_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc27_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc42_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc37_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc4_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc3_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc18_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc26_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc19_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc1_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc16_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc28_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc11_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc44_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc29_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc7_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc36_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc9_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc45_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc5_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc40_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc21_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc15_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc6_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc43_data_sim6666.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/testing/rbc49_data_sim6666.dat  done
+training items 50
+
+
+loading testing
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc37_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc12_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc0_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc36_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc39_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc38_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc40_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc34_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc24_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc1_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc35_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc10_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc49_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc29_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc46_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc14_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc19_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc3_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc42_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc45_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc33_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc32_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc28_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc6_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc16_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc27_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc4_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc21_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc15_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc9_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc13_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc43_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc48_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc31_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc7_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc41_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc11_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc17_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc26_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc20_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc25_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc23_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc47_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc22_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc44_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc5_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc18_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc2_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc8_data_sim6.dat  done
+loading cell : /home/michal/dataset/cells/kika_sim_6/training/rbc30_data_sim6.dat  done
+testing items 50
+
+
+position range : 3.536727 2.650194 2.274060  : 403.340942 43.165321 3.086177
+speed range : -0.002930 -0.011070 -0.004640  : 0.034370 0.011288 0.004483
+CellsLoad uninit done

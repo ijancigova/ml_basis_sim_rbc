@@ -1,0 +1,114 @@
+CellsLoad initializing
+
+
+loading training
+loading cell : /home/michal/dataset/cells/sim_50/training/cell23_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell6_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell7_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell12_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell1_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell16_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell36_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell39_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell15_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell13_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell31_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell14_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell22_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell5_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell20_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell0_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell49_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell3_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell4_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell27_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell44_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell45_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell42_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell47_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell28_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell38_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell10_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell11_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell32_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell25_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell29_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell41_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell40_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell17_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell35_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell37_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell33_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell26_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell30_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell34_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell18_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell24_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell9_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell43_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell21_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell46_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell19_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell2_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell48_data_sim50.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/training/cell8_data_sim50.dat  done
+training items 50
+
+
+loading testing
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell22_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell46_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell33_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell30_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell2_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell9_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell32_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell5_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell28_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell6_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell10_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell40_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell44_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell23_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell29_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell37_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell43_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell49_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell20_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell14_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell34_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell45_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell1_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell25_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell38_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell19_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell42_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell35_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell39_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell13_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell4_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell41_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell16_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell18_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell47_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell26_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell7_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell24_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell36_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell21_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell3_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell12_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell48_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell15_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell27_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell0_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell17_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell8_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell31_data_sim51.dat  done
+loading cell : /home/michal/dataset/cells/sim_50/testing/cell11_data_sim51.dat  done
+testing items 50
+
+
+position range : 8.589990 3.245570 3.182673  : 725.051758 47.056412 26.444719
+speed range : -0.021210 -0.197554 -0.091035  : 0.574341 0.233307 0.104587
+CellsLoad uninit done
